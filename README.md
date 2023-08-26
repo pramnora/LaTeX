@@ -18,7 +18,7 @@ LaTeX, is a way to create/publish files...; including, maths formulas inside of 
 
 ### Download
 
-Overleaf, gives you 2 options: Create using your web browser software/or, download...  
+Overleaf, gives you 2 options: Create/save LaTeX files online using your web browser software/or, download...  
 - https://www.overleaf.com  
 
 ### Tutorials
