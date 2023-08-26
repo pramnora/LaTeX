@@ -1,7 +1,7 @@
 # LaTeX
 LaTeX codes
 
-**Created**: *Sat 26 Aug 2023 20:37 PM GMT*
+**Created**: *Sat 26 Aug 2023 20:37 PM GMT*  
 **Updated**: *Sat 26 Aug 2023 20:37 PM GMT*
 
 -----
