@@ -8,7 +8,7 @@ LaTeX codes
 
 ## Introduction
 
-LaTeX, is a way to create/publish files...; including, maths formula related/and, [.pdf] documents. 
+LaTeX, is a way to create/publish files...; including, maths formula related inside of [.pdf] documents/-etc.  
 
 -(Because, I'm entirely *new* to learning  to use this sort technology...; therefore, I'm probably not the best to describe it all as yet...?!)
 
